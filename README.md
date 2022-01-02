@@ -1,7 +1,7 @@
 # Capture
 ![capture1](https://user-images.githubusercontent.com/89916459/147344870-93792346-82c1-4109-a7c0-a52ebbf42fa0.png)
 # About The Project
-Capture is a production website. It was built while I was learning ReactJS to showcase and improve my front-end development skills in order to work in web development field. It was built by **ReactJS** and used **styled-component** to style it.
+Capture is a production website. It was built while I was learning ReactJS to showcase and improve my front-end development skills in order to work in web development field. It was built by **ReactJS** and used **styled-components** to style it.
 # Sample pictures
 Card section
 
